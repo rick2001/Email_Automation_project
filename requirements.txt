@@ -1,0 +1,9 @@
+                                               Require Modules
+                                               
+
+   Lib name           About the library                                                                    How to install
+   
+-> smptlib         (Simple Mail Transfer Protocol Library)                                                  pip install smptlib
+-> PyAudio         ( we will use it for reading the strings)                                                pip install PyAudio
+-> pyttsx3          (it will convert the python text into speech. '3' is the version of this module)        pip install
+->SpeechRecognition       (Library for performing speech recognition)                                       pip install SpeechRecognition
